@@ -1,1 +1,23 @@
+body{
+  background-color: bisque;
+}
+.maindiv{
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    margin-top: 180px;
+    border: 2px solid black;
+    width: 200px;
+    height: 300px;
+   
+}
+button{
+    height: 40px;
+    width: 200px;
+}
+h3{
+    text-align: center;
+    position: relative;
+    bottom: 7px;
+}
+
 
